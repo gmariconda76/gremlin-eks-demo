@@ -61,7 +61,7 @@
 
 Gremlin Setup:
     First go to www.gremlin.com and register for a free account.  
-    After you login for the first time you can go to your team settings and get your Gremlin Team ID and Gremlin Team Secret.  You will need those to complete the setup.
+    After you login for the first time you can go to your team settings and get your Gremlin Team ID and Gremlin Team Secret.  You will need those to complete the       setup.
 
 10. Add Helm Repo
     helm repo add gremlin https://helm.gremlin.com
