@@ -8,9 +8,8 @@ Create Amazon EKS Cluster & Deploy a demo Application
 3. Install eksctl 
 4. Install Kubectl
 5. Install Helm
-6. Other Installs:
-7. Create EKS cluster
-8. Deploy test application
-9. Add Helm Repo
-10. Create Gremlin namespace in EKS
-11. Deploy pods into Gremlin namespace
+6. Create EKS cluster
+7. Deploy test application
+8. Add Helm Repo
+9. Create Gremlin namespace in EKS
+10. Deploy pods into Gremlin namespace
