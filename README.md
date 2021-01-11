@@ -1,4 +1,5 @@
 # Gremlin chaos engineering demo for EKS cluster
 
+Files needed for demo. 
 
-Create Amazon EKS Cluster, Deploy demo Application, and install Gremlin using Helm.
+Creates Amazon EKS Cluster, Deploys demo Application, and installs Gremlin using Helm.
